@@ -143,6 +143,7 @@ I want to understand **how software actually works underneath the abstractions**
 
 </div>
 
+
 ```text
                          ┌───────────────────┐
                          │      SOFTWARE     │
