@@ -173,11 +173,9 @@ I want to understand **how software actually works underneath the abstractions**
 ## 💭 `WHAT I BELIEVE`
 
 > **Don't just learn the tool. Understand the system behind it.**
-
 <br/>
 
 > **Don't just build tutorials. Build things that force you to think.**
-
 <br/>
 
 > **Don't chase every technology. Go deep where it matters.**
