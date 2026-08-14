@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### `Full-Stack / Backend Developer` · `Applied AI Enthusiast`
+### `Full-Stack / Backend Developer` · `Applied AI`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;Learning+backend+%26+system+design.;Exploring+Applied+AI.;Turning+ideas+into+software.;One+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
